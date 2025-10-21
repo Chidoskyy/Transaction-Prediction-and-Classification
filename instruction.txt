@@ -1,0 +1,20 @@
+Assignment #3 
+1. Download 4 Canadian credit card bank statements of yours (August 2025 to May 
+2025) 
+1.1 Use template extraction to automatically extract all fields in transactions 
+including transaction date, transaction postdate, transaction description, spend 
+category and amount (data extraction not to be done manually) into an array data 
+structure. 
+1.2 Build one visualization tool that allows each month (May 2025, June 2025, July 
+2025, and August 2025) to be selected so that its spend report is viewed/displayed. 
+1.3 Build a regression machine learning model that accurately predicts the total 
+spend for each transaction (no overfitting). 
+1.4 Build a classification machine learning model that categorizes each transaction 
+description. 
+1.5 Use all the features of the database in your models (encode non-numerical 
+features where necessary). 
+1.6 Create a Github repository for your code and results. 
+1.7 Submit the results both as Python code, and .pdf in the drop box, grant me 
+permission to the Github repository and post the results of your project on LinkedIn. 
+No Ai generated code, thank you. 
+Happy coding folks! 
